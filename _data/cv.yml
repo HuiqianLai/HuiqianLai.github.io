@@ -1,0 +1,100 @@
+cv:
+  name: Huiqian (Mia) Lai
+  label: PhD Student
+  email: hlai12@syr.edu
+  location: Syracuse, NY
+  image: ""
+  summary: PhD student at Syracuse University, focusing on Misinformation, Disinformation, and Computational Communication.
+
+  social_networks:
+    - network: LinkedIn
+      username: huiqian-lai
+
+  sections:
+    Education:
+      - institution: Syracuse University
+        location: Syracuse, NY, USA
+        url: https://www.syracuse.edu
+        area: Information Science and Technology
+        studyType: PhD
+        start_date: 2024
+        end_date: 2029
+        highlights:
+          - Research Interests: Misinformation and Disinformation, Computational Communication
+
+      - institution: Hong Kong Baptist University
+        location: Hong Kong
+        url: https://www.hkbu.edu.hk
+        area: Communication (Distinction)
+        studyType: MA
+        start_date: 2022
+        end_date: 2024
+        score: "GPA: 3.7/4"
+        highlights:
+          - Specialization in Artificial Intelligence and Digital Media
+          - "Relevant Coursework: AI Theories and Applications (A-), Basic Programming for Data Science (A), AI and Digital Media Workshop (A)"
+
+      - institution: Shandong Jianzhu University
+        location: Shandong, China
+        url: http://www.sdjzu.edu.cn
+        area: Software Engineering
+        studyType: Bachelor
+        start_date: 2015
+        end_date: 2019
+        score: "GPA: 80/100"
+        highlights:
+          - "Thesis: Research on the Application of Deep Learning in Image Recognition - A Case Study of Facial Expression Recognition"
+
+      - institution: I-Shou University
+        location: Taiwan
+        url: https://www.isu.edu.tw
+        area: Information Engineering
+        studyType: Exchange Program
+        start_date: 2017
+        end_date: 2018
+        score: "GPA: 3.74/4"
+        highlights:
+          - "Coursework: TCP/IP and Network Programming, Linux Operating System, Cloud Computing, Computer Vision, Big Data"
+
+    Experience:
+      - company: WPS
+        position: Senior Android Development Engineer
+        location: China
+        highlights:
+          - Led mobile app development projects
+          - Enhanced functionality and user experience
+
+      - company: NetEase Games
+        position: Android Development Engineer
+        location: China
+        highlights:
+          - Mobile UI design and machine learning integration
+
+      - company: Qihoo 360
+        position: Android Development Engineer
+        location: China
+        highlights:
+          - App development and AI-driven solutions
+
+    Skills:
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, Java, Kotlin, Swift, Flutter, Dart, Objective-C"
+
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "TensorFlow, Keras, PyTorch, Hadoop, Spark, Hive"
+
+      - name: Research
+        level: Advanced
+        icon: fa-solid fa-microscope
+        keywords: "Computational Communication, Data Analytics, Misinformation Research"
+
+    Languages:
+      - name: Chinese
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
