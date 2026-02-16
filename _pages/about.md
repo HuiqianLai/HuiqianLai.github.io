@@ -34,3 +34,4 @@ I received my M.A. in Communication (Distinction, GPA 3.7) from *[Hong Kong Bapt
 Prior to my PhD, I worked as a **Senior Android Development Engineer** in China for over five years at companies including [WPS](https://en.wikipedia.org/wiki/WPS_Office), [NetEase Games](https://en.wikipedia.org/wiki/NetEase), and [Baidu](https://en.wikipedia.org/wiki/Baidu). I contributed to multiple products with millions of daily active users, specializing in performance optimization, memory management, and mobile architecture.
 
 Outside of work, I enjoy hiking and traveling. Beyond the U.S., I have visited Thailand, Japan, South Korea, Australia, Budapest, and Poland — with Hakone and Melbourne being my favorite destinations. Next up: Spain for some authentic paella! I'm also a huge Doraemon fan!
+
