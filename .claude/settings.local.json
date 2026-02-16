@@ -10,7 +10,11 @@
       "Bash(export PATH=\"/opt/homebrew/opt/ruby/bin:$PATH\")",
       "Bash(gem install:*)",
       "Bash(lsof:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh run list:*)",
+      "Bash(git pull:*)"
     ]
   }
 }
