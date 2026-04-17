@@ -1,11 +1,15 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-04-17'
 papers:
   wu_R_J4AAAAJ:LkGwnXOMwfcC:
-    citations: 1
+    citations: 5
     title: '"Please, don''t kill the only model that still feels human": Understanding the# Keep4o Backlash'
     year: '2026'
   wu_R_J4AAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 2
     title: "Can LLMs Talk \u201CSex\u201D? Exploring How AI Models Handle Intimate Conversations"
     year: '2025'
+  wu_R_J4AAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: 'Safe but scripted: uncovering second-order bias in LLM LGBTQ+ storytelling'
+    year: '2026'
