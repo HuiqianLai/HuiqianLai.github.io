@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-20'
 papers:
+  wu_R_J4AAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: 'Fast-Food Intimacy: How Chinese Women Navigate Soul''s AI Boyfriend'
+    year: '2026'
   wu_R_J4AAAAJ:Se3iqnhoufwC:
-    citations: 5
+    citations: 6
     title: "\"Please, don\u2019t kill the only model that still feels human\": Understanding the# Keep4o Backlash"
     year: '2026'
   wu_R_J4AAAAJ:UebtZRa9Y70C:
@@ -13,6 +17,10 @@ papers:
     citations: 3
     title: "Can LLMs Talk \u201CSex\u201D? Exploring How AI Models Handle Intimate Conversations"
     year: '2025'
+  wu_R_J4AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Are LLMs More Skeptical of Entertainment News?
+    year: '2026'
   wu_R_J4AAAAJ:roLk4NBRz8UC:
     citations: 0
     title: 'Safe but scripted: uncovering second-order bias in LLM LGBTQ+ storytelling'
