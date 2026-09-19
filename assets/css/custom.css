@@ -1,0 +1,83 @@
+/* Site-specific overrides for the Minimal Light theme. Loaded after the theme CSS. */
+
+/* Slightly larger base type (theme default is 16px) */
+body { font-size: 17.5px; line-height: 1.55; }
+
+/* Smaller avatar */
+.image.avatar img {
+  width: 88px;
+  padding: 12px;
+}
+@media print, screen and (max-width: 960px) {
+  .image.avatar img { width: 96px; padding: 12px; }
+}
+@media print, screen and (max-width: 480px) {
+  .image.avatar img { width: 84px; padding: 12px; }
+}
+
+/* Publications: APA-style entries */
+h3.pub-group { margin: 1.2rem 0 0.6rem; font-size: 1.05rem; }
+h2#publications + h3.pub-group, h2#selected-publications + h3.pub-group { margin-top: 0; }
+.pubs p.pub {
+  margin: 0 0 0.8rem;
+  padding-left: 1.6rem;
+  text-indent: -1.6rem;   /* hanging indent */
+  line-height: 1.5;
+}
+.pubs .pub-award {
+  color: #e74d3c;
+  font-style: italic;
+  font-weight: 600;
+}
+.pubs .pub-media { color: #666; font-style: italic; }
+.pubs .pub-award + .pub-media::before { content: "\00b7\00a0"; color: #999; }
+.pubs .pub-media a { color: #39c; }
+@media (prefers-color-scheme: dark) {
+  .pubs .pub-media { color: #b0b1b8; }
+  .pubs .pub-media a { color: rgb(62, 183, 240); }
+}
+.pubs .pub-status { color: #6b7a90; font-style: italic; }
+@media (prefers-color-scheme: dark) { .pubs .pub-status { color: #9fb0c8; } }
+
+/* Tighter section rhythm */
+section h2 { margin-top: 1.6rem; }
+section ul li { margin-bottom: 0.3rem; }
+
+/* Top-right navigation */
+.wrapper { position: relative; }
+.top-nav { position: absolute; top: 1.5rem; right: 0; font-size: 0.95rem; }
+.top-nav a { margin-left: 1.4rem; color: #595959; letter-spacing: 0.02em; padding-bottom: 2px; }
+.top-nav a.active { color: #043361; font-weight: 600; border-bottom: 2px solid #043361; }
+.top-nav a:hover { color: #043361; }
+@media print, screen and (max-width: 960px) {
+  .top-nav { position: static; text-align: right; margin: 0 0 0.8rem; }
+}
+@media (prefers-color-scheme: dark) {
+  .top-nav a { color: #b8b9c0; }
+  .top-nav a.active, .top-nav a:hover { color: rgb(62, 183, 240); border-color: rgb(62, 183, 240); }
+}
+
+/* Selected publications (homepage) */
+.sel-more { font-size: 0.92rem; }
+.pub-scholar { margin-top: -0.4rem; color: #777; font-size: 0.92rem; }
+@media (prefers-color-scheme: dark) { .pub-scholar { color: #9a9ba3; } }
+
+/* Education / experience entries */
+.edu { margin: 0 0 1.2rem; }
+.edu-item { padding: 0.55rem 0; border-bottom: 1px solid #ececec; }
+.edu-item:last-child { border-bottom: 0; }
+.edu-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
+.edu-school { font-weight: 600; color: #222; }
+.edu-date { flex: 0 0 auto; color: #999; font-size: 0.85rem; }
+.edu-degree { margin-top: 0.1rem; }
+.edu-note { margin-top: 0.1rem; color: #666; font-size: 0.92rem; }
+@media (prefers-color-scheme: dark) {
+  .edu-item { border-color: #33343f; }
+  .edu-school { color: #eeeff0; }
+  .edu-date { color: #9a9ba3; }
+  .edu-note { color: #b8b9c0; }
+}
+
+/* Doraemon badge */
+.dora { display: inline-block; width: 2.1em; height: 2.1em; vertical-align: -0.6em; margin-left: 0.2em; transition: transform 0.25s ease; }
+.dora:hover { transform: rotate(-12deg) scale(1.3); }

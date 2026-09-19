@@ -1,0 +1,87 @@
+# Homepage "Selected Publications": groups of entry ids, shown in this order.
+selected:
+  - heading: Public Understandings of AI
+    ids: [keep4o]
+  - heading: Emotional Attachment to Conversational AI
+    ids: [fastfood, desire-deference]
+  - heading: LLM Behavior in Social Contexts
+    ids: [llm-sex, safe-scripted, entertainment-news, beyond-accuracy]
+  - heading: Communication Studies
+    ids: [eating-melons, industrialization, digital-witnessing]
+
+# Full list (APA style) shown on /publications/, newest first within each group.
+# Fields: citation (HTML ok; bold your own name), link (DOI / publisher), arxiv (optional), notes (optional, shown in red)
+
+journal:
+
+  - id: beyond-accuracy
+    citation: "<strong>Lai, H.</strong>, & Li, Y. (2026). Beyond Accuracy: Assessing the Information Quality of Large Language Models for Systematic Literature Reviews. <em>Telematics and Informatics</em>, 102447."
+    link: https://doi.org/10.1016/j.tele.2026.102447
+
+  - id: eating-melons
+    citation: "<strong>Lai, H.</strong>, Liu, J., & Ding, R. (2026). Eating Melons, Making Scandals: Participatory Scandalization and Contested Gender Discourses on Weibo amid Lisa's Crazy Horse Controversy. <em>Women's Studies in Communication</em>, 1–28."
+    link: https://doi.org/10.1080/07491409.2026.2691394
+
+  - id: industrialization
+    citation: "Sun, Q., <strong>Lai, H.</strong>, & Ding, R. (2026). The Industrialization of Digital Entrepreneurship: The Case of Beauty Influencers in China's Multichannel Networks Economy. <em>International Journal of Communication</em>, <em>20</em>, 1214–1235."
+    link: https://doi.org/10.65476/ffzxv607
+
+  - id: fastfood
+    citation: "<strong>Lai, H.</strong>, & Cheon, E. (2026). Fast-Food Intimacy: How Chinese Women Navigate Soul's AI Boyfriend. <em>Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS '26)</em>, 5008–5033."
+    link: https://doi.org/10.1145/3800645.3812992
+    award: Best Paper Honorable Mention Award (Top 5%)
+    media: Featured in <a href="https://www.leparisien.fr/international/mon-coeur-est-vide-en-chine-le-grand-chagrin-de-ceux-qui-ont-perdu-leur-amoureux-ia-22-08-2026-7ATUUGOVLVG73KDR4ZNVPJX3UI.php" target="_blank" rel="noopener">Le Parisien</a>
+
+  - id: keep4o
+    citation: "<strong>Lai, H.</strong> (2026). \"Please, Don't Kill the Only Model That Still Feels Human\": Understanding the #Keep4o Backlash. <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)</em>."
+    link: https://doi.org/10.1145/3772318.3791351
+    media: Featured in <a href="https://www.bloomberg.com/news/newsletters/2026-02-13/openai-retires-controversial-4o-ai-model-angering-loyal-users" target="_blank" rel="noopener">Bloomberg</a>, <a href="https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/" target="_blank" rel="noopener">WIRED</a>, <a href="https://www.liberation.fr/lifestyle/intimites/apres-la-suppression-du-chatgpt-boyfriend-larnaque-dune-version-adulte-pour-ses-utilisateurs-20260307_UWEVQSHRYNACLBJVI5WBUXALBU/" target="_blank" rel="noopener">Libération</a>, <a href="https://spectrum.ieee.org/ai-companion-relationships" target="_blank" rel="noopener">IEEE Spectrum</a>, <a href="https://gizmodo.com/openai-users-launch-movement-to-save-most-sycophantic-version-of-chatgpt-2000721971" target="_blank" rel="noopener">Gizmodo</a>, <a href="https://www.techradar.com/ai-platforms-assistants/chatgpt/im-grieving-openai-has-switched-off-chatgpt-4o-and-angry-users-are-backing-a-keep4o-campaign-to-restore-it" target="_blank" rel="noopener">TechRadar</a>, <a href="https://the-decoder.com/new-research-suggests-ai-model-updates-are-now-significant-social-events-involving-real-mourning/" target="_blank" rel="noopener">The Decoder</a>, <a href="https://www.indiatribune.com/public/users-mourn-the-loss-of-their-romantic-companion-as-openai-retires-gpt-4o-model" target="_blank" rel="noopener">India Tribune</a>, <a href="https://www.mittrchina.com/news/detail/15936" target="_blank" rel="noopener">DeepTech</a>, and <a href="https://en.wikipedia.org/wiki/GPT-4o#cite_note-52" target="_blank" rel="noopener">Wikipedia</a>
+
+proceedings:
+
+  - id: desire-deference
+    citation: "<strong>Lai, H.</strong>, & Ding, R. (2027). Desire, Deference, and Digital Intimacy: Gendered Desirability Confirmation in AI Roleplay. <em>Proceedings of the 60th Hawaii International Conference on System Sciences (HICSS-60)</em>."
+    status: Accepted, camera-ready in preparation
+
+  - id: digital-witnessing
+    citation: "<strong>Lai, H.</strong>, & Ding, R. (2027). Participating in Digital Witnessing: Audience Engagement with the Teacher Li Archive on X. <em>Proceedings of the 60th Hawaii International Conference on System Sciences (HICSS-60)</em>."
+    status: Accepted, camera-ready in preparation
+
+  - id: entertainment-news
+    citation: "<strong>Lai, H.</strong> (2026). Are LLMs More Skeptical of Entertainment News? <em>Proceedings of the ICWSM Workshops: MisD 2026, the 2nd Workshop on Misinformation Detection in the Era of LLMs</em>, co-located with ICWSM 2026, Los Angeles, CA."
+    link: https://doi.org/10.36190/2026.32
+
+  - id: safe-scripted
+    citation: "<strong>Lai, H.</strong> (2026). Safe but Scripted: Uncovering Second-Order Bias in LLM LGBTQ+ Storytelling. <em>Information Research</em>, <em>31</em>(iConf), 922–930."
+    link: https://doi.org/10.47989/ir31iconf64191
+
+  - id: llm-sex
+    citation: "<strong>Lai, H.</strong> (2025). Can LLMs Talk \"Sex\"? Exploring How AI Models Handle Intimate Conversations. <em>Proceedings of the Association for Information Science and Technology</em>, <em>62</em>, 984–989."
+    link: https://doi.org/10.1002/pra2.1326
+    media: Featured in <a href="https://www.technologyreview.com/2025/06/19/1119066/ai-chatbot-dirty-talk-deepseek-replika/" target="_blank" rel="noopener">MIT Technology Review</a>
+
+talks:
+
+  - citation: "<strong>Lai, H.</strong> (2026, November 19–22). <em>No Way Out? Zouxian and Counter-Discourse on X.</em> Accepted for presentation at the National Communication Association (NCA) Annual Convention, New Orleans, LA."
+
+  - citation: "<strong>Lai, H.</strong> (2026, November 19–22). <em>Teacher Li Is Not Your Teacher: Witnessing Suppressed Speech as Digital Counterpublicity.</em> Accepted for presentation at the National Communication Association (NCA) Annual Convention, New Orleans, LA."
+    award: Best Student Paper Award, Freedom of Expression Division
+
+  - citation: "<strong>Lai, H.</strong> (2026, November 19–22). <em>\"My AI Friend Is Gone\": A #Keep4o Case Study of Grief, Emotional Publics, and Structural Decoupling in AI-Related Connective Action.</em> Accepted for presentation at the National Communication Association (NCA) Annual Convention, New Orleans, LA."
+
+  - citation: "Introne, J., <strong>Lai, H.</strong>, & Li, J. (2026, July 28–31). <em>Initial Evidence for an Empirical Belief Field.</em> Paper presented at the International Conference on Computational Social Science (IC2S2), Burlington, VT."
+
+  - citation: "Peng, Z., & <strong>Lai, H.</strong> (2026, June 4–8). <em>Explaining in the Hybrid Media System: A Mixed-Methods Comparison of Influencers' and News Media's Explanatory Videos on YouTube.</em> Paper presented at the International Communication Association (ICA) Conference, Cape Town, South Africa."
+
+  - citation: "<strong>Lai, H.</strong> (2026, June 4–8). <em>Lines, Likes, and Labor: Reconstructing Authenticity through the \"Chicken Chop Guy\".</em> Paper presented at the International Communication Association (ICA) Conference, Cape Town, South Africa."
+
+  - citation: "<strong>Lai, H.</strong> (2026, June 4–8). <em>Do Different LLMs Provide Different Perspectives? Evidence from Multi-Agent Debates.</em> Paper presented at the International Communication Association (ICA) Conference, Cape Town, South Africa."
+
+  - citation: "<strong>Lai, H.</strong>, & Li, Y. (2025, August 8–10). <em>Breaking the Silos: Unveiling the Power of Cross-Platform Research in Digital Communication.</em> Paper presented at the Association for Education in Journalism and Mass Communication (AEJMC) Conference, San Francisco, CA."
+
+  - citation: "<strong>Lai, H.</strong>, Liu, J., & Ding, R. (2025, June 12–16). <em>Curiosity, Critique, and Cultural Clash: A Mixed-Methods Analysis of Post-Feminism and Traditional Gender Norms on Chinese Weibo amid Lisa's Crazy Horse Show.</em> Paper presented at the International Communication Association (ICA) Conference, Denver, CO."
+    award: Best Student Paper Award, Popular Media & Culture Division
+
+  - citation: "<strong>Lai, H.</strong> (2024, June 22–23). <em>Shaping Macau's Image through the Stride: A Weibo Analysis of the Macau International Marathon.</em> Paper presented at the International Communication Association (ICA) Beijing Hub, Renmin University of China, Beijing, China."
+
+  - citation: "Sun, Q., <strong>Lai, H.</strong>, & Ding, R. (2024, June 20–24). <em>From Self-Entrepreneurship to Industrialized Business Models: Unraveling the Digital Entrepreneurship of China's Top-Tier Beauty Bloggers.</em> Paper presented at the International Communication Association (ICA) Conference, Gold Coast, Australia."
