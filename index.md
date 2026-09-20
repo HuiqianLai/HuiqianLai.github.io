@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <div class="notice">
-  <strong>[Sep 2026]</strong> I am seeking a <strong>Research Intern position for Summer 2027</strong>. Please feel free to <a href="mailto:hlai12@syr.edu">reach out</a> if you think there may be a good fit.
+  <strong>[Sep 2026]</strong> I am seeking a <strong>Research Intern position for Summer 2027</strong>. Please feel free to reach out at <a href="mailto:hlai12@syr.edu">hlai12@syr.edu</a> if you think there may be a good fit.
 </div>
 
 ## About Me
