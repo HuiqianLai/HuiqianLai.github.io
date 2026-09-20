@@ -2,6 +2,10 @@
 layout: homepage
 ---
 
+<div class="notice">
+  <strong>[Sep 2026]</strong> I am seeking a <strong>Research Intern position for Summer 2027</strong>. Please feel free to <a href="mailto:hlai12@syr.edu">reach out</a> if you think there may be a good fit.
+</div>
+
 ## About Me
 
 I am a third-year Ph.D. student in Information Science and Technology at the [School of Information Studies](https://ischool.syracuse.edu/), Syracuse University, advised by [Dr. Yiqi Li](https://ischool.syracuse.edu/yiqi-li/). My research examines how people understand and relate to AI along three lines: (1) how publics interpret and contest AI technologies, and how emotions shape their collective expression; (2) how people form emotional attachments to chatbots and AI companions, and how they experience model changes and discontinuation; and (3) how language models behave in social contexts such as conversational histories, group dynamics, and multilingual interaction. My work bridges communication theory and natural language processing, combining computational text analysis with controlled experiments. Recent projects trace the #Keep4o backlash against GPT-4o's retirement and the rise of AI companions in China, audit how large language models handle intimate and sensitive conversations, and analyze digital witnessing and gender discourses on Weibo and X. I also work on a DARPA-funded project with [Dr. Joshua Introne](https://ischool.syracuse.edu/joshua-introne/) that extracts and tracks belief statements from millions of social media posts.
