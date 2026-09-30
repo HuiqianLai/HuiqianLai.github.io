@@ -6,7 +6,7 @@ selected:
     ids: [fastfood, desire-deference]
   - heading: LLM Behavior in Social Contexts
     ids: [llm-sex, safe-scripted, entertainment-news, beyond-accuracy]
-  - heading: Communication Studies
+  - heading: Media, Popular Culture, and Politics
     ids: [eating-melons, industrialization, digital-witnessing]
 
 # Full list (APA style) shown on /publications/, newest first within each group.
