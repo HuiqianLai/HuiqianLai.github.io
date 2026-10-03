@@ -64,9 +64,10 @@ Teaching Assistant, Syracuse University
 
 ## Academic Service
 
-Reviewer
+Conference Reviewer
 
-- ACM CHI Conference on Human Factors in Computing Systems (CHI) 2026, Papers and Extended Abstracts
-- Hawaii International Conference on System Sciences (HICSS) 2026
-- International Communication Association (ICA) Annual Conference 2025, 2026
-- Association for Education in Journalism and Mass Communication (AEJMC) Annual Conference 2025
+- **CHI** · ACM CHI Conference on Human Factors in Computing Systems · Papers 2026, 2027; Extended Abstracts 2026
+- **ICWSM** · International AAAI Conference on Web and Social Media · 2027
+- **HICSS** · Hawaii International Conference on System Sciences · 2026
+- **ICA** · International Communication Association Annual Conference · 2025, 2026
+- **AEJMC** · Association for Education in Journalism and Mass Communication Annual Conference · 2025
